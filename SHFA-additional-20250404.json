@@ -1,0 +1,642 @@
+[
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/CIRKEL",
+    "sourceLabel": "cirkel",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300055627",
+    "targetLabel": "circles (plane figures)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/KRIGARE",
+    "sourceLabel": "krigare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300261945",
+    "targetLabel": "warriors",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAD%20M%C3%84NNISKA",
+    "sourceLabel": "ospecificerad människa",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010335",
+    "targetLabel": "anthropomorphic",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAD%20SKEPP",
+    "sourceLabel": "ospecificerad skepp",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAT%20VAPEN",
+    "sourceLabel": "ospecificerat vapen",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300036926",
+    "targetLabel": "weapons",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/HJULKORS",
+    "sourceLabel": "hjulkors",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300165461",
+    "targetLabel": "wheel crosses (four-spoke crosses)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/OXE",
+    "sourceLabel": "oxe",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250282",
+    "targetLabel": "oxen",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAT%20DJUR",
+    "sourceLabel": "ospecificerat djur",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300249525",
+    "targetLabel": "animals (general term)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/H%C3%84ST",
+    "sourceLabel": "häst",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250148",
+    "targetLabel": "Equus caballus (species)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/HJORT",
+    "sourceLabel": "hjort",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250308",
+    "targetLabel": "Cervidae (family)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/KONCENTRISK%20CIRKEL",
+    "sourceLabel": "koncentrisk cirkel",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010274",
+    "targetLabel": "concentric",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SK%C3%96LDB%C3%84RARE",
+    "sourceLabel": "sköldbärare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010335",
+    "targetLabel": "anthropomorphic",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/F%C3%85GEL",
+    "sourceLabel": "fågel",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300375751",
+    "targetLabel": "birds (motifs)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SPJUTB%C3%84RARE",
+    "sourceLabel": "spjutbärare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010335",
+    "targetLabel": "anthropomorphic",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20F%C3%96RROMERSK%20J%C3%84RN%C3%85LDER%20500-0%20FKR",
+    "sourceLabel": "skepp förromersk järnålder 500-0 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/FISKESCEN",
+    "sourceLabel": "fiskescen",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300239470",
+    "targetLabel": "fishing",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/TR%C3%84D",
+    "sourceLabel": "träd",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300132410",
+    "targetLabel": "trees (woody plants)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/YXB%C3%84RARE",
+    "sourceLabel": "yxbärare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010335",
+    "targetLabel": "anthropomorphic",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/HUND",
+    "sourceLabel": "hund",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250130",
+    "targetLabel": "Canis familiaris (species)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/B%C3%85GSKYTT",
+    "sourceLabel": "bågskytt",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300379808",
+    "targetLabel": "archers",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/VOLTIG%C3%96R",
+    "sourceLabel": "voltigör",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300263157",
+    "targetLabel": "acrobats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/YXA",
+    "sourceLabel": "yxa",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300024664",
+    "targetLabel": "axes (tools)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/%C3%84LG",
+    "sourceLabel": "älg",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250310",
+    "targetLabel": "Alces alces (species)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/VAGN",
+    "sourceLabel": "vagn",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300215710",
+    "targetLabel": "wagons (cargo vehicles)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/ORM",
+    "sourceLabel": "orm",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250870",
+    "targetLabel": "Serpentes (suborder)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SVIN",
+    "sourceLabel": "svin",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250114",
+    "targetLabel": "Sus (genus)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/KVINNA",
+    "sourceLabel": "kvinna",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300025943",
+    "targetLabel": "women (female humans)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/LURBL%C3%85SARE",
+    "sourceLabel": "lurblåsare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010335",
+    "targetLabel": "anthropomorphic",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPPB%C3%84RARE",
+    "sourceLabel": "skeppbärare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010335",
+    "targetLabel": "anthropomorphic",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/KORSFORM",
+    "sourceLabel": "korsform",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010044",
+    "targetLabel": "crosses (motifs)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/RYTTARE",
+    "sourceLabel": "ryttare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300188602",
+    "targetLabel": "equestrians",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SV%C3%84RD",
+    "sourceLabel": "svärd",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300037048",
+    "targetLabel": "swords",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SPJUT",
+    "sourceLabel": "spjut",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300037038",
+    "targetLabel": "spears (weapons)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/VARG",
+    "sourceLabel": "varg",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250132",
+    "targetLabel": "wolves",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/FISK",
+    "sourceLabel": "fisk",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300266085",
+    "targetLabel": "fish (animals)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/MANTEL",
+    "sourceLabel": "mantel",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300212298",
+    "targetLabel": "mantles (outerwear)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/INGOT",
+    "sourceLabel": "ingot",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300137865",
+    "targetLabel": "ingot",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20V%20900-700%20FKR",
+    "sourceLabel": "skepp per. v 900-700 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/REDSKAPS",
+    "sourceLabel": "redskaps",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300024841",
+    "targetLabel": "tools",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20SN2%202000-1700%20FKR",
+    "sourceLabel": "skepp per. sn2 2000-1700 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20II%201500-1300%20FKR",
+    "sourceLabel": "skepp per. ii 1500-1300 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20I%201700-1500%20FKR",
+    "sourceLabel": "skepp per. i 1700-1500 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/DOLK",
+    "sourceLabel": "dolk",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300037058",
+    "targetLabel": "daggers (weapons)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/BRUDPAR",
+    "sourceLabel": "brudpar",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300379217",
+    "targetLabel": "couples",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/ADORANT",
+    "sourceLabel": "adorant",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300379724",
+    "targetLabel": "praying",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20III%201300-1100%20FKR",
+    "sourceLabel": "skepp per. iii 1300-1100 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/BJ%C3%96RN",
+    "sourceLabel": "björn",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300266516",
+    "targetLabel": "Ursidae (family)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/DANSARE",
+    "sourceLabel": "dansare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300025653",
+    "targetLabel": "dancers",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/LINJE",
+    "sourceLabel": "linje",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300400858",
+    "targetLabel": "lines (artistic concept)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20IV%201100-900%20FKR",
+    "sourceLabel": "skepp per. iv 1100-900 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/GET",
+    "sourceLabel": "get",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300250122",
+    "targetLabel": "Capra (genus)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SOLSKEPP",
+    "sourceLabel": "solskepp",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAD%20GEOMETRISK%20FIGUR",
+    "sourceLabel": "ospecificerad geometrisk figur",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300055626",
+    "targetLabel": "geometric figures",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/%C3%84LGHUVUDSTAV",
+    "sourceLabel": "älghuvudstav",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300204653",
+    "targetLabel": "staffs (staff weapon components)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SK%C3%96LD",
+    "sourceLabel": "sköld",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300036869",
+    "targetLabel": "shields (armor)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/B%C3%85GE%20OCH%20PIL",
+    "sourceLabel": "båge och pil",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300036999",
+    "targetLabel": "bows (weapons)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SV%C3%84RDLYFTARE",
+    "sourceLabel": "svärdlyftare",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300010335",
+    "targetLabel": "anthropomorphic",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/KROK",
+    "sourceLabel": "krok",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300400821",
+    "targetLabel": "hooks (object genre)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/LUR",
+    "sourceLabel": "lur",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300042772",
+    "targetLabel": "lurs (aerophones)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/INFORMATIONSSKYLT",
+    "sourceLabel": "informationsskylt",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300213259",
+    "targetLabel": "information signs",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/KARTA",
+    "sourceLabel": "karta",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300028094",
+    "targetLabel": "maps (documents)",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20VI%20700-500%20FKR",
+    "sourceLabel": "skepp per. vi 700-500 fkr",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#broadMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300178749",
+    "targetLabel": "boats",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/SICKSACK",
+    "sourceLabel": "sicksack",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#exactMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300165028",
+    "targetLabel": "zig zag",
+    "created": "",
+    "updated": ""
+  },
+  {
+    "sourceURI": "https://ariadne-infrastructure.eu/aocat/Concept/SND/KLUBBA",
+    "sourceLabel": "klubba",
+    "sourceLabelLanguage": "sv",
+    "matchURI": "http://www.w3.org/2004/02/skos/core#closeMatch",
+    "targetURI": "http://vocab.getty.edu/page/aat/300037206",
+    "targetLabel": "clubs (weapons)",
+    "created": "",
+    "updated": ""
+  }
+]

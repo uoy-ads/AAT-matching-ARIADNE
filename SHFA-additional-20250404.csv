@@ -1,0 +1,66 @@
+sourceURI,sourceLabel,sourceLabelLanguage,matchURI,targetLabel,targetURI,sub_term_en,aat_sub_url
+https://ariadne-infrastructure.eu/aocat/Concept/SND/CIRKEL,cirkel,sv,http://www.w3.org/2004/02/skos/core#closeMatch,circles (plane figures),http://vocab.getty.edu/page/aat/300055627,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/KRIGARE,krigare,sv,http://www.w3.org/2004/02/skos/core#closeMatch,warriors,http://vocab.getty.edu/page/aat/300261945,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAD%20M%C3%84NNISKA,ospecificerad människa,sv,http://www.w3.org/2004/02/skos/core#closeMatch,anthropomorphic,http://vocab.getty.edu/page/aat/300010335,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAD%20SKEPP,ospecificerad skepp,sv,http://www.w3.org/2004/02/skos/core#closeMatch,boats,http://vocab.getty.edu/page/aat/300178749,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAT%20VAPEN,ospecificerat vapen,sv,http://www.w3.org/2004/02/skos/core#closeMatch,weapons,http://vocab.getty.edu/page/aat/300036926,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/HJULKORS,hjulkors,sv,http://www.w3.org/2004/02/skos/core#exactMatch,wheel crosses (four-spoke crosses),http://vocab.getty.edu/page/aat/300165461,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/OXE,oxe,sv,http://www.w3.org/2004/02/skos/core#exactMatch,oxen,http://vocab.getty.edu/page/aat/300250282,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAT%20DJUR,ospecificerat djur,sv,http://www.w3.org/2004/02/skos/core#closeMatch,animals (general term),http://vocab.getty.edu/page/aat/300249525,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/H%C3%84ST,häst,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Equus caballus (species),http://vocab.getty.edu/page/aat/300250148,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/HJORT,hjort,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Cervidae (family),http://vocab.getty.edu/page/aat/300250308,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/KONCENTRISK%20CIRKEL,koncentrisk cirkel,sv,http://www.w3.org/2004/02/skos/core#exactMatch,concentric,http://vocab.getty.edu/page/aat/300010274,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SK%C3%96LDB%C3%84RARE,sköldbärare,sv,http://www.w3.org/2004/02/skos/core#broadMatch,anthropomorphic,http://vocab.getty.edu/page/aat/300010335,shields (armor),http://vocab.getty.edu/page/aat/300036869
+https://ariadne-infrastructure.eu/aocat/Concept/SND/F%C3%85GEL,fågel,sv,http://www.w3.org/2004/02/skos/core#closeMatch,birds (motifs),http://vocab.getty.edu/page/aat/300375751,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SPJUTB%C3%84RARE,spjutbärare,sv,http://www.w3.org/2004/02/skos/core#broadMatch,anthropomorphic,http://vocab.getty.edu/page/aat/300010335,spears (weapons),http://vocab.getty.edu/page/aat/300037038
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20F%C3%96RROMERSK%20J%C3%84RN%C3%85LDER%20500-0%20FKR,skepp förromersk järnålder 500-0 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,Iron Age,http://vocab.getty.edu/page/aat/300019279
+https://ariadne-infrastructure.eu/aocat/Concept/SND/FISKESCEN,fiskescen,sv,http://www.w3.org/2004/02/skos/core#broadMatch,fishing,http://vocab.getty.edu/page/aat/300239470,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/TR%C3%84D,träd,sv,http://www.w3.org/2004/02/skos/core#closeMatch,trees (woody plants),http://vocab.getty.edu/page/aat/300132410,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/YXB%C3%84RARE,yxbärare,sv,http://www.w3.org/2004/02/skos/core#broadMatch,anthropomorphic,http://vocab.getty.edu/page/aat/300010335,axes (tools),http://vocab.getty.edu/page/aat/300024664
+https://ariadne-infrastructure.eu/aocat/Concept/SND/HUND,hund,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Canis familiaris (species),http://vocab.getty.edu/page/aat/300250130,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/B%C3%85GSKYTT,bågskytt,sv,http://www.w3.org/2004/02/skos/core#exactMatch,archers,http://vocab.getty.edu/page/aat/300379808,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/VOLTIG%C3%96R,voltigör,sv,http://www.w3.org/2004/02/skos/core#closeMatch,acrobats,http://vocab.getty.edu/page/aat/300263157,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/YXA,yxa,sv,http://www.w3.org/2004/02/skos/core#closeMatch,axes (tools),http://vocab.getty.edu/page/aat/300024664,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/%C3%84LG,älg,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Alces alces (species),http://vocab.getty.edu/page/aat/300250310,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/VAGN,vagn,sv,http://www.w3.org/2004/02/skos/core#closeMatch,wagons (cargo vehicles),http://vocab.getty.edu/page/aat/300215710,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/ORM,orm,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Serpentes (suborder),http://vocab.getty.edu/page/aat/300250870,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SVIN,svin,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Sus (genus),http://vocab.getty.edu/page/aat/300250114,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/KVINNA,kvinna,sv,http://www.w3.org/2004/02/skos/core#exactMatch,women (female humans),http://vocab.getty.edu/page/aat/300025943,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/LURBL%C3%85SARE,lurblåsare,sv,http://www.w3.org/2004/02/skos/core#broadMatch,anthropomorphic,http://vocab.getty.edu/page/aat/300010335,lurs (aerophones),http://vocab.getty.edu/page/aat/300042772
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPPB%C3%84RARE,skeppbärare,sv,http://www.w3.org/2004/02/skos/core#broadMatch,anthropomorphic,http://vocab.getty.edu/page/aat/300010335,boats,http://vocab.getty.edu/page/aat/300178749
+https://ariadne-infrastructure.eu/aocat/Concept/SND/KORSFORM,korsform,sv,http://www.w3.org/2004/02/skos/core#exactMatch,crosses (motifs),http://vocab.getty.edu/page/aat/300010044,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/RYTTARE,ryttare,sv,http://www.w3.org/2004/02/skos/core#exactMatch,equestrians,http://vocab.getty.edu/page/aat/300188602,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SV%C3%84RD,svärd,sv,http://www.w3.org/2004/02/skos/core#closeMatch,swords,http://vocab.getty.edu/page/aat/300037048,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SPJUT,spjut,sv,http://www.w3.org/2004/02/skos/core#closeMatch,spears (weapons),http://vocab.getty.edu/page/aat/300037038,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/VARG,varg,sv,http://www.w3.org/2004/02/skos/core#closeMatch,wolves,http://vocab.getty.edu/page/aat/300250132,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/FISK,fisk,sv,http://www.w3.org/2004/02/skos/core#closeMatch,fish (animals),http://vocab.getty.edu/page/aat/300266085,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/MANTEL,mantel,sv,http://www.w3.org/2004/02/skos/core#closeMatch,mantles (outerwear),http://vocab.getty.edu/page/aat/300212298,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/INGOT,ingot,sv,http://www.w3.org/2004/02/skos/core#exactMatch,ingot,http://vocab.getty.edu/page/aat/300137865,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20V%20900-700%20FKR,skepp per. v 900-700 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,Late Bronze Age,http://vocab.getty.edu/page/aat/300019278
+https://ariadne-infrastructure.eu/aocat/Concept/SND/REDSKAPS,redskaps,sv,http://www.w3.org/2004/02/skos/core#closeMatch,tools,http://vocab.getty.edu/page/aat/300024841,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20SN2%202000-1700%20FKR,skepp per. sn2 2000-1700 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,boats,http://vocab.getty.edu/page/aat/300178749
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20II%201500-1300%20FKR,skepp per. ii 1500-1300 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,Early Bronze Age,http://vocab.getty.edu/page/aat/300019276
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20I%201700-1500%20FKR,skepp per. i 1700-1500 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,Early Bronze Age,http://vocab.getty.edu/page/aat/300019276
+https://ariadne-infrastructure.eu/aocat/Concept/SND/DOLK,dolk,sv,http://www.w3.org/2004/02/skos/core#closeMatch,daggers (weapons),http://vocab.getty.edu/page/aat/300037058,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/BRUDPAR,brudpar,sv,http://www.w3.org/2004/02/skos/core#broadMatch,couples,http://vocab.getty.edu/page/aat/300379217,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/ADORANT,adorant,sv,http://www.w3.org/2004/02/skos/core#broadMatch,praying,http://vocab.getty.edu/page/aat/300379724,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20III%201300-1100%20FKR,skepp per. iii 1300-1100 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,Early Bronze Age,http://vocab.getty.edu/page/aat/300019276
+https://ariadne-infrastructure.eu/aocat/Concept/SND/BJ%C3%96RN,björn,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Ursidae (family),http://vocab.getty.edu/page/aat/300266516,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/DANSARE,dansare,sv,http://www.w3.org/2004/02/skos/core#closeMatch,dancers,http://vocab.getty.edu/page/aat/300025653,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/LINJE,linje,sv,http://www.w3.org/2004/02/skos/core#closeMatch,lines (artistic concept),http://vocab.getty.edu/page/aat/300400858,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20IV%201100-900%20FKR,skepp per. iv 1100-900 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,Late Bronze Age,http://vocab.getty.edu/page/aat/300019278
+https://ariadne-infrastructure.eu/aocat/Concept/SND/GET,get,sv,http://www.w3.org/2004/02/skos/core#closeMatch,Capra (genus),http://vocab.getty.edu/page/aat/300250122,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SOLSKEPP,solskepp,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,suns (stars),http://vocab.getty.edu/page/aat/300379806
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SOLSTATIV,solstativ,sv,,,,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/OSPECIFICERAD%20GEOMETRISK%20FIGUR,ospecificerad geometrisk figur,sv,http://www.w3.org/2004/02/skos/core#closeMatch,geometric figures,http://vocab.getty.edu/page/aat/300055626,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/%C3%84LGHUVUDSTAV,älghuvudstav,sv,http://www.w3.org/2004/02/skos/core#broadMatch,staffs (staff weapon components),http://vocab.getty.edu/page/aat/300204653,staffs (staff weapon components),http://vocab.getty.edu/page/aat/300204653
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SK%C3%96LD,sköld,sv,http://www.w3.org/2004/02/skos/core#closeMatch,shields (armor),http://vocab.getty.edu/page/aat/300036869,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/B%C3%85GE%20OCH%20PIL,båge och pil,sv,http://www.w3.org/2004/02/skos/core#closeMatch,bows (weapons),http://vocab.getty.edu/page/aat/300036999,arrows (projectiles),http://vocab.getty.edu/page/aat/300036976
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SV%C3%84RDLYFTARE,svärdlyftare,sv,http://www.w3.org/2004/02/skos/core#broadMatch,anthropomorphic,http://vocab.getty.edu/page/aat/300010335,swords,http://vocab.getty.edu/page/aat/300037048
+https://ariadne-infrastructure.eu/aocat/Concept/SND/KROK,krok,sv,http://www.w3.org/2004/02/skos/core#exactMatch,hooks (object genre),http://vocab.getty.edu/page/aat/300400821,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/LUR,lur,sv,http://www.w3.org/2004/02/skos/core#exactMatch,lurs (aerophones),http://vocab.getty.edu/page/aat/300042772,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/INFORMATIONSSKYLT,informationsskylt,sv,http://www.w3.org/2004/02/skos/core#exactMatch,information signs,http://vocab.getty.edu/page/aat/300213259,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/KARTA,karta,sv,http://www.w3.org/2004/02/skos/core#exactMatch,maps (documents),http://vocab.getty.edu/page/aat/300028094,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SKEPP%20PER.%20VI%20700-500%20FKR,skepp per. vi 700-500 fkr,sv,http://www.w3.org/2004/02/skos/core#broadMatch,boats,http://vocab.getty.edu/page/aat/300178749,Late Bronze Age,http://vocab.getty.edu/page/aat/300019278
+https://ariadne-infrastructure.eu/aocat/Concept/SND/SICKSACK,sicksack,sv,http://www.w3.org/2004/02/skos/core#exactMatch,zig zag,http://vocab.getty.edu/page/aat/300165028,,
+https://ariadne-infrastructure.eu/aocat/Concept/SND/KLUBBA,klubba,sv,http://www.w3.org/2004/02/skos/core#closeMatch,clubs (weapons),http://vocab.getty.edu/page/aat/300037206,,
